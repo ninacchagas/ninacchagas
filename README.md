@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mariana+Chagas;I'm+24+years+old;I'm+from+Brazil;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mariana+Chagas;I'm+23+years+old;I'm+from+Brazil;+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninacchagas&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Chagas github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninacchagas&show_icons=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Chagas github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninacchagas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/ninacchagas/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ninacchagas&color=ff91a4&style=flat-square" /></p> 
 <br>
 </div>
 
